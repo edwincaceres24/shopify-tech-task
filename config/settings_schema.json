@@ -64,6 +64,13 @@
       },
       {
         "type": "color",
+        "id": "colors_button_hover",
+        "default": "#FFA500",
+        "label": "t:settings_schema.colors.settings.colors_button_hover.label",
+        "info": "t:settings_schema.colors.settings.colors_button_hover.info"
+      },
+      {
+        "type": "color",
         "id": "colors_background_1",
         "default": "#FFFFFF",
         "label": "t:settings_schema.colors.settings.colors_background_1.label"

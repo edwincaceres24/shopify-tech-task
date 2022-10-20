@@ -120,6 +120,10 @@
           "label": "Outline button",
           "info": "Also used for text links."
         },
+	      "colors_button_hover": {
+          "label": "Hover color button",
+          "info": "Used for change color of Add to Card button."
+        },
         "colors_background_1": {
           "label": "Background 1"
         },
