@@ -4,6 +4,13 @@
   position: relative;
   text-decoration: none;
 }
+.product-card-wrapper {
+  color: inherit;
+  height: 100%;
+  position: relative;
+  text-decoration: none;
+  width: 269px;
+}
 
 .card {
   text-align: var(--card-text-alignment);
