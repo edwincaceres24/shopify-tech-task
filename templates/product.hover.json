@@ -1,7 +1,7 @@
 {
   "sections": {
     "main": {
-      "type": "main-product",
+      "type": "main-product-hover",
       "blocks": {
         "vendor": {
           "type": "text",
@@ -42,7 +42,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "random_field": "Hello World"
+            "hover-class": true
           }
         },
         "description": {
